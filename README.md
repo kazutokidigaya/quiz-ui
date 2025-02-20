@@ -1,6 +1,6 @@
 # Quiz-EZ Simple Quiz App
 
-Welcome to **Quiz-EZ** – a modern, responsive quiz application built with vite+React! This app features a timer-based quiz experience, instant notifications via react-toastify, and a detailed breakdown of your performance after you complete a quiz. the app is available on s[https://quiz-mern-snowy.vercel.app/]
+Welcome to **Quiz-EZ** – a modern, responsive quiz application built with vite+React! This app features a timer-based quiz experience, instant notifications via react-toastify, and a detailed breakdown of your performance after you complete a quiz. the app is available on s[https://quiz-ui-six.vercel.app]
 
 ## Features
 
@@ -29,8 +29,8 @@ Welcome to **Quiz-EZ** – a modern, responsive quiz application built with vite
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/quiz-ez.git
-cd quiz-ez/frontend
+git clone https://github.com/kazutokidigaya/quiz-ui.git
+cd quiz-ui/frontend
 ```
 
 ### 2. Install Dependencies

@@ -58,7 +58,7 @@ const Home = () => {
           <div className="mx-auto max-w-7xl px-6 lg:px-8">
             <img
               alt="Quiz Illustration"
-              src="https://res.cloudinary.com/dqela8lj8/image/upload/v1732818027/pi9ezepogjyesmexbcoq.webp"
+              src="https://res.cloudinary.com/dqela8lj8/image/upload/v1740032643/quix2l4hsoit0jekbtsk.png"
               className="mb-0 rounded-xl shadow-2xl ring-1 ring-gray-900/10"
             />
             <div className="relative" aria-hidden="true">
